@@ -1,4 +1,4 @@
-# Omarchy Shell Plugin for Obsidian Search
+# Obsidian Focused Search (Omarchy Shell Plugin)
 
 A beautiful [Obsidian](https://obsidian.md/) vault search menu. Type to filter notes with fuzzy ranking, open one with Enter, or create a new note when nothing matches. Search spans every vault you have; `@vault` narrows it to one, `#tag` to the notes carrying that tag and `:property` to the notes whose frontmatter matches.
 
@@ -118,7 +118,7 @@ omarchy plugin remove anavarre.obsidian-focused-search
 
 ## Credits
 
-Project forked from (omarchy-obsidian-search)[https://github.com/BibekBhusal0/omarchy-obsidian-search] by Bibek Bhusal and adapted to my needs so I can implement advanced filtering.
+Project forked from [omarchy-obsidian-search](https://github.com/BibekBhusal0/omarchy-obsidian-search) by Bibek Bhusal and adapted to my needs so I can implement advanced filtering.
 
 Fuzzy matching uses [`FuzzySearch.js`](FuzzySearch.js), adapted from [omarchy-raindrop-bookmarks](https://github.com/treramey/omarchy-raindrop-bookmarks) by Trevor Ramey, licensed under the MIT License.
 
