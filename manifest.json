@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "anavarre.obsidian-focused-search",
+  "name": "Obsidian Focused Search",
+  "version": "1.0.0",
+  "author": "Aurelien Navarre",
+  "description": "Search and open Obsidian notes from the Omarchy shell with fuzzy ranking across every vault, @vault to focus one, #tag to filter by tags and :property to filter by frontmatter, plus bases and canvas support and creating a new note when nothing matches.",
+  "homepage": "https://github.com/anavarre/omarchy-obsidian-focused-search",
+  "kinds": [
+    "overlay"
+  ],
+  "entryPoints": {
+    "overlay": "ObsidianSearch.qml"
+  }
+}
