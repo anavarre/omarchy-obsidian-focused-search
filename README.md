@@ -118,6 +118,8 @@ omarchy plugin remove anavarre.obsidian-focused-search
 
 ## Credits
 
+Project forked from (omarchy-obsidian-search)[https://github.com/BibekBhusal0/omarchy-obsidian-search] by Bibek Bhusal and adapted to my needs so I can implement advanced filtering.
+
 Fuzzy matching uses [`FuzzySearch.js`](FuzzySearch.js), adapted from [omarchy-raindrop-bookmarks](https://github.com/treramey/omarchy-raindrop-bookmarks) by Trevor Ramey, licensed under the MIT License.
 
 This plugin is licensed under the [MIT License](LICENSE).
